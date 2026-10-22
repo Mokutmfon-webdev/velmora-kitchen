@@ -66,6 +66,7 @@ h1{
 .food-text{
     width: 50%;
     order: 1;
+    padding: 40px;
 }
 .food-image{
     background-image: url(images/img1.png);
